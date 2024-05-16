@@ -53,7 +53,7 @@ These are the basic dependencies required to run the voice assistant. Additional
 1. Start the voice assistant:
 
    ```sh
-   python main.py
+   streamlit run speech_client.py
    ```
 
 2. Interact with the assistant using your voice or by typing queries.
